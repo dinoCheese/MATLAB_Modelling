@@ -1,0 +1,7 @@
+
+function [u, x, y, t]  = Name();
+Output: user define var ←u (conditions) 
+n ← 1
+m ← 1
+define u ← equation
+plot (x,y, u)
